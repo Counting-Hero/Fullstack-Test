@@ -7,12 +7,16 @@ In this test we have made a simple fullstack template that you are going to use 
 
 **Clone the repository and initialize your own repository - we do not want forks**
 
+## Our testing / criterias
+
+When testing you application we will pull it down from Git, run the backend, then the frontend, and the first thing we should see is a complete list of users. Design is not important, but code-style and code-quality will be used to evaluate the solution
+
+---
+
 ## Description
 In this fullstack application your task is to display a list of users that is defined in the backend. Both the 
 backend and frontend is unfinished and need your help to get up and running. Below you will get the details on what's missing in 
 the two folders.
-
-`Expected time usage is 15-35 minutes`
 
 ### Dependencies
 
@@ -78,11 +82,6 @@ $ yarn start:dev
 
 ## Rules
 
-### Copying
-
-All candidates are receiving the same test, if the solutions contains components that are identical, we will do a check and see if the solutions are copied from the internet. Using official documentation is
-allowed, but copying code/solutions from StackOverflow or equivalent is not allowed.
-
 ### Packages
 
 You are allowed to use Bootstrap, TailwindCSS and custom CSS/SCSS. The only constraint is that if you use fully designed components you have to override the styles and display
@@ -97,6 +96,10 @@ Your solution should be delivered as a github repository that we can view. Commi
 
 ---
 
-## Our testing
+## Contact
 
-When testing you application we will pull it down from Git, run the backend, then the frontend, and the first thing we should see is a complete list of users. Design is not important, but code-style and code-quality will be used to evaluate the solution
+If you have any questions, we are available on email:
+
+Mathias - `mathias@countinghero.com`
+
+Jone - `jone@countinghero.com`
