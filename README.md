@@ -5,6 +5,8 @@
 This is a simple test constructed to verify your knowledge both within backend ecosystems such as NodeJS and NestJS, and frontend ecosystems such as React.
 In this test we have made a simple fullstack template that you are going to use to display information, here we're using NestJS and React.
 
+**Clone the repository and initialize your own repository - we do not want forks**
+
 ## Description
 In this fullstack application your task is to display a list of users that is defined in the backend. Both the 
 backend and frontend is unfinished and need your help to get up and running. Below you will get the details on what's missing in 
