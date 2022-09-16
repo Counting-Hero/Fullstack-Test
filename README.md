@@ -24,7 +24,7 @@ In this project you will need Node installed on your computer. By default `npm` 
 
 ### Frontend
 
-Here you have an empty file called `src/pages/Users.js`. Your task here is to make this file render a list of users fetched from the backend. The Users page
+Here you have an empty file called `src/pages/Users.js`. Your task here is to make this file render a list of users fetched from the backend and display it in the app. The Users page
 does not have to be a list, but can also be a series of cards or any other creative way of displaying the users. As long as it contains an intuitive design and we can
 see all users, the test is completed.
 
